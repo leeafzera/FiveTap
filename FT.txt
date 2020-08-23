@@ -2,3 +2,4 @@ Cliente01
 0
 asn
 rx
+skaut0
